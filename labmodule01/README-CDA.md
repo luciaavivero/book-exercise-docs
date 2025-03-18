@@ -16,6 +16,8 @@ Para llevar a cabo este proyecto, utilicé WSL con una distribución de Ubuntu. 
 
 Posteriormente, creé una carpeta denominada programmingtheiot, en la cual cloné los repositorios proporcionados para este proyecto: python-components, java-components y book-exercise-docs. finalmente, configuré un entorno virtual .venv para trabajar en el proyecto de manera aislada y organizada.
 
+Actualice la variable DEFAULT_CONFIG_FILE_NAME del archivo ConfigConst.py por el path del archivo PiotConfig.props que tiene en mi proyecto. Además, cada vez que quiero ejecutar algún archivo tengo que añadir el PYTHONPATH desde la terminal de la WSL.
+
 
 ### Code Repository and Branch
 

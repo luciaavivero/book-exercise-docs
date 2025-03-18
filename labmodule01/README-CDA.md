@@ -12,6 +12,11 @@ What does your implementation do?
 
 How does your implementation work?
 
+Para llevar a cabo este proyecto, utilicé WSL con una distribución de Ubuntu. Instalé la versión 3.12.3 de Python, junto con pip 24.0, y para Java, configuré OpenJDK 21.0.6. Además, instalé Git para la gestión del código fuente.
+
+Posteriormente, creé una carpeta denominada programmingtheiot, en la cual cloné los repositorios proporcionados para este proyecto: python-components, java-components y book-exercise-docs. finalmente, configuré un entorno virtual .venv para trabajar en el proyecto de manera aislada y organizada.
+
+
 ### Code Repository and Branch
 
 NOTE: Be sure to include the branch 

@@ -12,11 +12,18 @@ What does your implementation do?
 
 How does your implementation work?
 
+PIOT-CDA-12-000 → Crear una rama “LAB12” en python-components para hacer las modificaciones de solo este lab.
+
+PIOT-CDA-12-001 → He creado un sensor de humo, con su actuador. Al crear el sensor, lo he añadido en la configutación. 
+
+PIOT-CDA-12-100 → Hacemos commit de todos los cambios llamado “PIOT-CDA-12-00x” siendo x el número del apartado que corresponde y  hacemos un merge para default.
+
+
 ### Code Repository and Branch
 
 NOTE: Be sure to include the branch.
 
-URL: 
+URL: https://github.com/luciaavivero/python-components/tree/LAB12
 
 
 ### Unit Tests Executed
